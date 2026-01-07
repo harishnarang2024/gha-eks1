@@ -1,2 +1,2 @@
 FROM nginx:latest
-RUN echo "harish7" > /usr/share/nginx/html/index.html
+RUN echo "harish8" > /usr/share/nginx/html/index.html
