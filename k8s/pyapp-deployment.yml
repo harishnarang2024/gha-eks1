@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: pyapp
-          image: harishnarang2018/nginx-lesson159:e1063c7
+          image: harishnarang2018/nginx-lesson159:359d4e3
           ports:
             - containerPort: 80
